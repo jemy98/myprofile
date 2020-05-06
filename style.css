@@ -1,0 +1,29 @@
+body{
+	background-color: #AFEEEE;
+	font-family: Zapf Chancery, cursive;
+}
+h1{
+	color: #8B008B;
+}
+h3{
+	color: #4682B4;
+}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #DC143C;
+	border-width: 5px;
+}
+.round{
+	border-radius: 100%;
+}
+.background-gray{
+	background-color: #C0C0C0;
+}
+.background-green{
+	background-color: #90EE90;
+}
+#text-blue{
+	color: #0000CD;
+	font-family: Lucidatypewriter, monospace;
+}
